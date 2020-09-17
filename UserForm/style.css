@@ -1,0 +1,59 @@
+body{
+    
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightslategray; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+h1{
+    color:rgb(68, 139, 68);
+    font-size: 25px;
+    margin-top: 100px;
+    padding: 0px;
+}
+
+.name{
+    color: crimson;
+    font-size: 28px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 0px;
+     
+}
+.Click{
+    color: yellow;
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 0px;
+}
+.pic{
+    width: 100px;
+    height: 100px;
+    border-radius:50%;
+    margin-top:20px;
+    display: block; margin-left: auto; margin-right: auto;
+
+}
+.logindata{
+    background-color: black;
+    width: 400px;
+    height: 500px;
+    color: #fff;
+    top:60%;
+    left:50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 10px 30px;
+  
+}
+
+.Label{
+    margin: 0px;
+    padding: 20px;
+
+}
